@@ -69,14 +69,14 @@ Rodar os testes:
 | 4      | 21/06 | Versão final + apresentação                          | ⏳            |
 
 ## Checklist mínimo
-- [x] Proposta com 16 campos (`docs/proposta.md`)
+- [x] Proposta (`docs/proposta.md`)
 - [x] README preenchido
 - [ ] Protótipo jogável
 - [ ] Sistema de pontuação, vidas e ranking
 - [ ] Testes automatizados
 - [ ] Versão final apresentável
 
-## Referências de assets (uso futuro)
+## Referências de assets
 - [Kenney.nl](https://kenney.nl/) — sprites e ícones gratuitos.
 - [OpenGameArt](https://opengameart.org/) — arte livre para jogos.
 - [itch.io — game assets](https://itch.io/game-assets/free) — pacotes gratuitos.
