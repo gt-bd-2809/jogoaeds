@@ -9,7 +9,7 @@ como trabalho da disciplina de Introdução a Algoritmos / Programação — PUC
 - Bernardo Demaria Santos
 - Victhor Guilherme
 - Lucas Domingos
-- Gabriel Ouvidio
+- Gabriel Ovidio
 
 ## Descrição
 O jogador controla um sobrevivente perdido em uma floresta sombria. Ele coleta frutos
