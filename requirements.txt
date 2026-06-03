@@ -1,0 +1,4 @@
+# Use pygame-ce (Community Edition), com wheels para Python 3.12+
+# Caso prefira o pygame oficial, troque a linha abaixo por: pygame>=2.6
+pygame-ce>=2.5.7
+pytest>=8.0
