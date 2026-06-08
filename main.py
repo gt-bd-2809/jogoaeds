@@ -1,7 +1,4 @@
-"""Ponto de entrada do jogo Floresta Sombria."""
-
-from src.game import executar
-
+from src.game import executar_jogo
 
 if __name__ == "__main__":
-    executar()
+    executar_jogo()
